@@ -1,4 +1,4 @@
-# MDB_LandingPage
+# MDB_LandingPage_Template
 
 ## Description
 
@@ -10,7 +10,7 @@ HTML, CSS, JavaScript, JQuery, Material Design Bootstrap.
 
 ### Launch
 
-Open 'index.html' to open static webpage. 
+Open 'index.html' to open static webpage.
 
 ### Collaborators
 
@@ -19,4 +19,3 @@ Matthew Bell
 ### Licenses
 
 MIT, Material Design for Bootstrap (Free) & EBM Bootstrap Plugin - "https://mdbootstrap.com/general/license/"
-
