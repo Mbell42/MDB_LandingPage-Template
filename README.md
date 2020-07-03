@@ -16,7 +16,7 @@ Open 'index.html' to open static webpage.
 
 Matthew Bell
 
-### Licenses
+### License
 
-MIT, Material Design for Bootstrap (Free) & EBM Bootstrap Plugin - "https://mdbootstrap.com/general/license/"
+Material Design for Bootstrap (Free) & EBM Bootstrap Plugin - "https://mdbootstrap.com/general/license/"
 
