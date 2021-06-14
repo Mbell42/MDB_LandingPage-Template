@@ -1,4 +1,4 @@
-# MDB_LandingPage_Template
+# practice-MDB_LandingPage_Template
 
 ## Description
 
